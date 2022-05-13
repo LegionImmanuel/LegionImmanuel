@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LegionImmanuel >>Emmanuel C. Ekwuazi
 - 👀 I’m interested in Back-end Software development
-- 🌱 I’m currently learning Software development. 
+- 🌱 I’m currently learning Software development with AltSchool_Africa 
  
 - 📫 How to reach me >> Email: ekwuaziemma@gmail.com
+                      >> Twitter: @EkwuaziEmmanuel
  
 
 <!---
